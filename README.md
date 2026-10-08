@@ -172,3 +172,5 @@ Não use a temperatura como "qualidade": ela é um parâmetro de diversidade. A 
 O dataset não é copiado para este pacote porque é um corpus externo com licença própria. O `download_dataset.py` automatiza sua obtenção a partir da fonte original.
 
 ## Nota de Uso
+
+Foram utilizadas ferramentas de IA nesse projeto para a geração do README.md, e para formatação de texto em latex, no caso do resumo em formato ISMIR. Também foi utilizado auxílio de IA para sugerir diferentes gramáticas, mas sem sucesso. Dessa forma, a gramática escolhida foi a mais simples e eficaz, dados os testes feitos no projeto.
