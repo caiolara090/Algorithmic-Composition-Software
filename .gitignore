@@ -1,0 +1,22 @@
+```gitignore
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Virtual environment
+venv/
+.venv/
+
+# Dataset
+data/raw/
+data/processed/*.json
+
+# Generated files
+output/*.mid
+
+# OS / IDE
+.DS_Store
+.vscode/
+.idea/
+```
