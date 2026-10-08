@@ -114,6 +114,10 @@ python generate.py --seed 2 --temperature 1.0
 python generate.py --seed 3 --temperature 1.2
 ```
 
+```bash
+ for temp in 0.5 0.75 1.0 1.25 1.5; do for seed in 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15; do python generate.py --seed $seed --temperature $temp; done; done
+```
+
 Os MIDI serão gerados em `output/`.
 
 ## Avaliação
